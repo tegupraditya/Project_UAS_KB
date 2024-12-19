@@ -1,0 +1,33 @@
+Nama  : Teguh Praditya
+NIM   : F55123046
+kelas : Informatika B
+
+
+Random Forest Validation Accuracy: 0.90
+Random Forest Classification Report:
+              precision    recall  f1-score   support
+
+        Akra       1.00      0.56      0.71         9
+      Amirul       0.82      1.00      0.90         9
+         Ari       1.00      1.00      1.00         9
+        Arsy       0.89      0.89      0.89         9
+       Aulia       0.89      0.89      0.89         9
+       Cindy       1.00      0.56      0.71         9
+     Faathir       0.86      0.67      0.75         9
+     Fadhlur       0.89      0.89      0.89         9
+       Fitra       1.00      1.00      1.00         9
+      Hajera       1.00      1.00      1.00         9
+       Ihzan       1.00      0.89      0.94         9
+        Iswa       1.00      1.00      1.00         9
+     Jessica       0.93      1.00      0.96        13
+        Juan       0.78      0.78      0.78         9
+     Mujahid       0.80      0.89      0.84         9
+       Nayla       0.90      1.00      0.95         9
+       Rifky       0.90      1.00      0.95         9
+         Rut       0.90      1.00      0.95         9
+        Siti       0.80      0.89      0.84         9
+       Teguh       0.75      1.00      0.86         9
+
+    accuracy                           0.90       184
+   macro avg       0.90      0.89      0.89       184
+weighted avg       0.91      0.90      0.89       184

@@ -1,0 +1,25 @@
+Nama  : Teguh Praditya
+NIM   : F55123046
+kelas : Informatika B
+
+
+Loading dataset...
+Kolom yang tersedia: Index(['District', 'Soil Type', 'pH Level', 'Organic Matter (%)',
+       'Nitrogen Content (kg/ha)', 'Phosphorus Content (kg/ha)',
+       'Potassium Content (kg/ha)'],
+      dtype='object')
+Data training dan validasi telah dibuat.
+Model Random Forest telah selesai dilatih.
+
+Hasil Evaluasi Model:
+Accuracy: 0.80
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        40
+           1       0.80      0.99      0.89       160
+
+    accuracy                           0.80       200
+   macro avg       0.40      0.50      0.44       200
+weighted avg       0.64      0.80      0.71       200
